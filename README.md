@@ -9,8 +9,8 @@
 <hr />
 
 ## 🔗 Project URLs
-* **Frontend (Live):** [Click Here to View App](https://reachdesk-frontend.onrender.com/)
-* **Backend API Base:** [Click Here to View API](https://reachdesk.onrender.com)
+* **Frontend (Live):** [Click Here to View App](https://reachdesk-frontend-szoj.onrender.com/)
+* **Backend API Base:** [Click Here to View API](https://reachdesk-backend.onrender.com/)
 
 <hr />
 
