@@ -62,7 +62,7 @@ function Login() {
                 <input
                   name="email"
                   type="email"
-                  placeholder="name@company.com"
+                  placeholder="Enter your email address"
                   value={formData.email}
                   onChange={handleChange}
                   required
@@ -81,7 +81,7 @@ function Login() {
                 <input
                   name="password"
                   type="password"
-                  placeholder="••••••••"
+                  placeholder="Enter your password"
                   value={formData.password}
                   onChange={handleChange}
                   required

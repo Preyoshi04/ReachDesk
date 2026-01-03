@@ -71,7 +71,7 @@ function Register() {
                 <input
                   name="name"
                   type="text"
-                  placeholder="John Doe"
+                  placeholder="Enter your full name"
                   value={formData.name}
                   onChange={handleChange}
                   required
@@ -92,7 +92,7 @@ function Register() {
                 <input
                   name="email"
                   type="email"
-                  placeholder="test@email.com"
+                  placeholder="Enter your email address"
                   value={formData.email}
                   onChange={handleChange}
                   required
@@ -113,7 +113,7 @@ function Register() {
                 <input
                   name="password"
                   type="password"
-                  placeholder="••••••••"
+                  placeholder="Create a password"
                   value={formData.password}
                   onChange={handleChange}
                   required
